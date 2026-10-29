@@ -1,0 +1,208 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create `index.html` at the project root": [
+      {
+        "executionId": "af425280-1569-4065-86e1-a747f9928d5f",
+        "chatSessionId": "sess_885d1da0-d99a-468c-b210-20f4f9666135",
+        "timestamp": 1793279218094
+      },
+      {
+        "executionId": "af425280-1569-4065-86e1-a747f9928d5f",
+        "chatSessionId": "sess_885d1da0-d99a-468c-b210-20f4f9666135",
+        "timestamp": 1793279253506
+      }
+    ],
+    "1.2 Create `css/styles.css`": [
+      {
+        "executionId": "c6139e6a-4110-4e1c-bc62-e04858b40774",
+        "chatSessionId": "sess_3277e59e-5b6a-4594-95e0-8b7206230411",
+        "timestamp": 1793279277843
+      },
+      {
+        "executionId": "c6139e6a-4110-4e1c-bc62-e04858b40774",
+        "chatSessionId": "sess_3277e59e-5b6a-4594-95e0-8b7206230411",
+        "timestamp": 1793279317658
+      }
+    ],
+    "1.3 Create `js/app.js` scaffold": [
+      {
+        "executionId": "2f5c104b-b7f2-4811-b0b6-63e7e4f9482c",
+        "chatSessionId": "sess_2dbd2463-49bc-4ff0-84b8-016aed89d3b0",
+        "timestamp": 1793279328177
+      },
+      {
+        "executionId": "2f5c104b-b7f2-4811-b0b6-63e7e4f9482c",
+        "chatSessionId": "sess_2dbd2463-49bc-4ff0-84b8-016aed89d3b0",
+        "timestamp": 1793279363424
+      }
+    ],
+    "1. Set up project structure": [
+      {
+        "executionId": "2f5c104b-b7f2-4811-b0b6-63e7e4f9482c",
+        "chatSessionId": "sess_2dbd2463-49bc-4ff0-84b8-016aed89d3b0",
+        "timestamp": 1793279363528
+      }
+    ],
+    "2.1 Implement `parseAmountToCents` and `validateInput`": [
+      {
+        "executionId": "39bb01d9-3e70-413a-a052-c83525053c09",
+        "chatSessionId": "sess_5452f4fd-1980-4d39-90fa-7e9f6f0ac225",
+        "timestamp": 1793279375433
+      },
+      {
+        "executionId": "39bb01d9-3e70-413a-a052-c83525053c09",
+        "chatSessionId": "sess_5452f4fd-1980-4d39-90fa-7e9f6f0ac225",
+        "timestamp": 1793279417444
+      }
+    ],
+    "2.4 Implement `formatCurrency`, `sumCents`, `categoryTotals`": [
+      {
+        "executionId": "1e77c447-1d1e-47b0-82a6-3cadb04ee9fe",
+        "chatSessionId": "sess_1fe0b10e-8d3e-4fa3-83cc-98c886e438d8",
+        "timestamp": 1793279442008
+      },
+      {
+        "executionId": "1e77c447-1d1e-47b0-82a6-3cadb04ee9fe",
+        "chatSessionId": "sess_1fe0b10e-8d3e-4fa3-83cc-98c886e438d8",
+        "timestamp": 1793279470746
+      }
+    ],
+    "2.8 Implement `serialize`, `deserialize`, `generateId`": [
+      {
+        "executionId": "aadb926a-415a-4300-99ce-b29d4b975d58",
+        "chatSessionId": "sess_2c3d332c-3818-4200-ac9f-3ccece1ea3df",
+        "timestamp": 1793279489189
+      },
+      {
+        "executionId": "aadb926a-415a-4300-99ce-b29d4b975d58",
+        "chatSessionId": "sess_2c3d332c-3818-4200-ac9f-3ccece1ea3df",
+        "timestamp": 1793279518632
+      }
+    ],
+    "2. Implement pure logic": [
+      {
+        "executionId": "aadb926a-415a-4300-99ce-b29d4b975d58",
+        "chatSessionId": "sess_2c3d332c-3818-4200-ac9f-3ccece1ea3df",
+        "timestamp": 1793279518728
+      }
+    ],
+    "4.1 Implement pure list helpers `addToList` and `removeFromList`": [
+      {
+        "executionId": "5233e398-a40c-4013-b420-c5d6af3c5069",
+        "chatSessionId": "sess_54600c32-ebad-47d6-b88f-efcecc9eb292",
+        "timestamp": 1793279539592
+      },
+      {
+        "executionId": "5233e398-a40c-4013-b420-c5d6af3c5069",
+        "chatSessionId": "sess_54600c32-ebad-47d6-b88f-efcecc9eb292",
+        "timestamp": 1793279574399
+      }
+    ],
+    "4.4 Implement `loadTransactions` and `saveTransactions`": [
+      {
+        "executionId": "39b5e066-5aed-4f7d-95c4-36557de8dd13",
+        "chatSessionId": "sess_33fab828-e408-4c19-b359-dade2ca1161e",
+        "timestamp": 1793279594498
+      },
+      {
+        "executionId": "39b5e066-5aed-4f7d-95c4-36557de8dd13",
+        "chatSessionId": "sess_33fab828-e408-4c19-b359-dade2ca1161e",
+        "timestamp": 1793279633239
+      }
+    ],
+    "4. Implement state operations and Storage": [
+      {
+        "executionId": "39b5e066-5aed-4f7d-95c4-36557de8dd13",
+        "chatSessionId": "sess_33fab828-e408-4c19-b359-dade2ca1161e",
+        "timestamp": 1793279633290
+      }
+    ],
+    "5.1 Implement `renderList` and `renderTotal`": [
+      {
+        "executionId": "d323dd3d-366c-43a2-b889-fff46a3a39fe",
+        "chatSessionId": "sess_4459e3fe-8725-4007-8235-dfc410dc4732",
+        "timestamp": 1793279657029
+      },
+      {
+        "executionId": "d323dd3d-366c-43a2-b889-fff46a3a39fe",
+        "chatSessionId": "sess_4459e3fe-8725-4007-8235-dfc410dc4732",
+        "timestamp": 1793279701313
+      }
+    ],
+    "5.3 Implement `renderChart`": [
+      {
+        "executionId": "eac347ef-3b23-474d-9a9c-5411ac5bc830",
+        "chatSessionId": "sess_a22ce288-8872-4cba-8857-48aa2cd07091",
+        "timestamp": 1793279712245
+      },
+      {
+        "executionId": "eac347ef-3b23-474d-9a9c-5411ac5bc830",
+        "chatSessionId": "sess_a22ce288-8872-4cba-8857-48aa2cd07091",
+        "timestamp": 1793279745581
+      }
+    ],
+    "5.4 Implement `showFormErrors`, `clearFormErrors`, `showBanner`": [
+      {
+        "executionId": "91c59c01-ab75-43be-8a18-cd56a01afd75",
+        "chatSessionId": "sess_e306f3f4-1eca-4434-ae0d-f79cb0bc735d",
+        "timestamp": 1793279768504
+      },
+      {
+        "executionId": "91c59c01-ab75-43be-8a18-cd56a01afd75",
+        "chatSessionId": "sess_e306f3f4-1eca-4434-ae0d-f79cb0bc735d",
+        "timestamp": 1793279802533
+      }
+    ],
+    "5. Implement the view": [
+      {
+        "executionId": "91c59c01-ab75-43be-8a18-cd56a01afd75",
+        "chatSessionId": "sess_e306f3f4-1eca-4434-ae0d-f79cb0bc735d",
+        "timestamp": 1793279802608
+      }
+    ],
+    "6.1 Implement `render`, `addTransaction`, `deleteTransaction`, and startup": [
+      {
+        "executionId": "91c59c01-ab75-43be-8a18-cd56a01afd75",
+        "chatSessionId": "sess_e306f3f4-1eca-4434-ae0d-f79cb0bc735d",
+        "timestamp": 1793279809508
+      },
+      {
+        "executionId": "91c59c01-ab75-43be-8a18-cd56a01afd75",
+        "chatSessionId": "sess_e306f3f4-1eca-4434-ae0d-f79cb0bc735d",
+        "timestamp": 1793279849357
+      }
+    ],
+    "6. Wire the controller": [
+      {
+        "executionId": "91c59c01-ab75-43be-8a18-cd56a01afd75",
+        "chatSessionId": "sess_e306f3f4-1eca-4434-ae0d-f79cb0bc735d",
+        "timestamp": 1793279849424
+      }
+    ],
+    "3. Checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "91c59c01-ab75-43be-8a18-cd56a01afd75",
+        "chatSessionId": "sess_e306f3f4-1eca-4434-ae0d-f79cb0bc735d",
+        "timestamp": 1793279856161
+      },
+      {
+        "executionId": "91c59c01-ab75-43be-8a18-cd56a01afd75",
+        "chatSessionId": "sess_e306f3f4-1eca-4434-ae0d-f79cb0bc735d",
+        "timestamp": 1793279883669
+      }
+    ],
+    "7. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "91c59c01-ab75-43be-8a18-cd56a01afd75",
+        "chatSessionId": "sess_e306f3f4-1eca-4434-ae0d-f79cb0bc735d",
+        "timestamp": 1793279889343
+      },
+      {
+        "executionId": "91c59c01-ab75-43be-8a18-cd56a01afd75",
+        "chatSessionId": "sess_e306f3f4-1eca-4434-ae0d-f79cb0bc735d",
+        "timestamp": 1793279919601
+      }
+    ]
+  }
+}
